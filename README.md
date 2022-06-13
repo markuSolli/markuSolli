@@ -3,4 +3,4 @@
 - 👀 I'm interested in game development
 - 🌱 I'm currently learning Godot Engine
 - 📫 How to reach me:
-  - Twitter: [@markuSollil](https://twitter.com/markuSollli)
+  - Twitter: [@markuSolli](https://twitter.com/markuSollli)
